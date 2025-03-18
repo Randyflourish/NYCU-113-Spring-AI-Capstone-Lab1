@@ -1,3 +1,4 @@
+Due to coppright issue, I only upload the url.csv file into this repo.
 The dataset is organized as follows:
 
     dataset
@@ -16,5 +17,6 @@ The dataset is organized as follows:
         ├── raw_data
         ├── test_data
         └── train_data
-Where url.csv contains the youtube links, raw_data contains the .mp3 files downloaded from the links.
-And train_data and test_data is constructed by me manually (by copy and paste).
+Where url.csv contains the youtube links and some data (such as the game or the name of a BGM), raw_data (should) contain the .mp3 files downloaded from the links, and train_data and test_data is constructed by me manually by copy the data from raw_data.
+
+About the test_data of each class, please refer to the appendix II in my pdf report.
